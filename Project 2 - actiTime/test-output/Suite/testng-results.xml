@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Case Passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-04T13:26:22 IST" name="Suite" finished-at="2022-12-04T13:27:58 IST" duration-ms="96422">
+    <groups>
+    </groups>
+    <test started-at="2022-12-04T13:26:22 IST" name="Test" finished-at="2022-12-04T13:27:58 IST" duration-ms="96422">
+      <class name="selenium.testscript.AlertPopup">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:selenium.testscript.AlertPopup@49139829]" started-at="2022-12-04T13:27:01 IST" name="launchBrowser" finished-at="2022-12-04T13:27:08 IST" duration-ms="6295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:selenium.testscript.AlertPopup@49139829]" started-at="2022-12-04T13:27:08 IST" name="login" finished-at="2022-12-04T13:27:15 IST" duration-ms="7073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="alertPopup()[pri:0, instance:selenium.testscript.AlertPopup@49139829]" started-at="2022-12-04T13:27:15 IST" name="alertPopup" finished-at="2022-12-04T13:27:22 IST" duration-ms="7560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertPopup -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:selenium.testscript.AlertPopup@49139829]" started-at="2022-12-04T13:27:22 IST" name="logout" finished-at="2022-12-04T13:27:22 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:selenium.testscript.AlertPopup@49139829]" started-at="2022-12-04T13:27:22 IST" name="closeBrowser" finished-at="2022-12-04T13:27:22 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- selenium.testscript.AlertPopup -->
+      <class name="selenium.testscript.DropdownHandling">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:selenium.testscript.DropdownHandling@9597028]" started-at="2022-12-04T13:27:22 IST" name="launchBrowser" finished-at="2022-12-04T13:27:25 IST" duration-ms="2493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:selenium.testscript.DropdownHandling@9597028]" started-at="2022-12-04T13:27:25 IST" name="login" finished-at="2022-12-04T13:27:32 IST" duration-ms="7153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="dropdownHandle()[pri:0, instance:selenium.testscript.DropdownHandling@9597028]" started-at="2022-12-04T13:27:32 IST" name="dropdownHandle" finished-at="2022-12-04T13:27:42 IST" duration-ms="10012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownHandle -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:selenium.testscript.DropdownHandling@9597028]" started-at="2022-12-04T13:27:42 IST" name="logout" finished-at="2022-12-04T13:27:42 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:selenium.testscript.DropdownHandling@9597028]" started-at="2022-12-04T13:27:42 IST" name="closeBrowser" finished-at="2022-12-04T13:27:42 IST" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- selenium.testscript.DropdownHandling -->
+      <class name="selenium.testscript.HiddenDivison">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:selenium.testscript.HiddenDivison@6069db50]" started-at="2022-12-04T13:27:42 IST" name="launchBrowser" finished-at="2022-12-04T13:27:44 IST" duration-ms="1876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:selenium.testscript.HiddenDivison@6069db50]" started-at="2022-12-04T13:27:44 IST" name="login" finished-at="2022-12-04T13:27:52 IST" duration-ms="7345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="hiddenDivison()[pri:0, instance:selenium.testscript.HiddenDivison@6069db50]" started-at="2022-12-04T13:27:52 IST" name="hiddenDivison" finished-at="2022-12-04T13:27:58 IST" duration-ms="6280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hiddenDivison -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:selenium.testscript.HiddenDivison@6069db50]" started-at="2022-12-04T13:27:58 IST" name="logout" finished-at="2022-12-04T13:27:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:selenium.testscript.HiddenDivison@6069db50]" started-at="2022-12-04T13:27:58 IST" name="closeBrowser" finished-at="2022-12-04T13:27:58 IST" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- selenium.testscript.HiddenDivison -->
+      <class name="selenium.testscript.CustomerCreation">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:selenium.testscript.CustomerCreation@2b662a77]" started-at="2022-12-04T13:26:22 IST" name="launchBrowser" finished-at="2022-12-04T13:26:38 IST" duration-ms="15675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:selenium.testscript.CustomerCreation@2b662a77]" started-at="2022-12-04T13:26:38 IST" name="login" finished-at="2022-12-04T13:26:45 IST" duration-ms="7486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="customerCreation()[pri:0, instance:selenium.testscript.CustomerCreation@2b662a77]" started-at="2022-12-04T13:26:45 IST" name="customerCreation" finished-at="2022-12-04T13:26:59 IST" duration-ms="13672" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerCreation -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:selenium.testscript.CustomerCreation@2b662a77]" started-at="2022-12-04T13:26:59 IST" name="logout" finished-at="2022-12-04T13:26:59 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:selenium.testscript.CustomerCreation@2b662a77]" started-at="2022-12-04T13:26:59 IST" name="closeBrowser" finished-at="2022-12-04T13:27:01 IST" duration-ms="2349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- selenium.testscript.CustomerCreation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
