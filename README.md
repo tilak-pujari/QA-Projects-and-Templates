@@ -73,10 +73,6 @@ The project also supports parallel testing , which allows running tests on multi
 
 The project can be used to demonstrate the skills and knowledge of Selenium automation testing and to practice test cases on a realistic web application⁴.
 
-
-# Selenium_HerokuApp
-This is Bing. I can help you write a readme section for your HerokuApp project. Here is a possible template:
-
 # HerokuApp Automation Testing
 
 This project is a Java Selenium TestNG framework for automating the testing of various web applications hosted on HerokuApp. It uses Maven as a build tool and generates HTML reports using Extent Reports.
