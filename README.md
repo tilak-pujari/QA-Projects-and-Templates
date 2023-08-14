@@ -31,7 +31,7 @@ The project uses ChromeDriver as the web driver and JUnit as the testing framewo
 The project can be used to demonstrate the skills and knowledge of Java-Selenium automation testing and to practice test cases on a realistic e-commerce website
 
 
-# Actitime Demo WebSite Automation
+## Actitime Demo WebSite Automation
 This project is based on Java-Selenium technology to automate the demo website of actiTime, an open-source platform. The project covers various functionalities of the website, such as:
 
 Registration of new user
