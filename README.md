@@ -62,7 +62,7 @@ The project can be used to demonstrate the skills and knowledge of Selenium auto
 
 This project is a Java Selenium TestNG framework for automating the testing of various web applications hosted on HerokuApp. It uses Maven as a build tool and generates HTML reports using Extent Reports.
 
-** Features **
+### Features ###
 - Supports cross-browser testing on Chrome, Firefox and Edge
 - Implements Page Object Model (POM) design pattern
 - Uses TestNG annotations and parameters for test configuration and execution
@@ -70,7 +70,7 @@ This project is a Java Selenium TestNG framework for automating the testing of v
 - Handles common web elements such as alerts, frames, dropdowns, drag and drop, etc.
 - Demonstrates various testing scenarios such as login, file upload, form submission, etc.
   
-# SpeedTest Automation Project
+## SpeedTest Automation Project
 
 This project is a Selenium-based automated testing framework for SpeedTest, a web application that measures the internet speed and performance. The project uses Java as the programming language, Maven as the build tool, TestNG as the testing framework, and Allure as the reporting tool. The project follows the Page Object Model (POM) design pattern, which enables structured and maintainable test code by separating page objects from test logic, enhancing reusability and scalability.
 
@@ -85,7 +85,6 @@ The project covers various functionalities of the website, such as:
 The project also supports parallel testing , which allows running tests on multiple browsers simultaneously. The project also uses annotations to speed up the test development and execution.
 
 The project can be used to demonstrate the skills and knowledge of Selenium automation testing and to practice test cases on a realistic web application⁴.
-
 
 
 ## Report
