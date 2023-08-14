@@ -15,7 +15,8 @@
 - Update the browser and driver paths in the config.properties file
 - Run the testng.xml file as a TestNG suite
 
-# OpenCart Automation Project
+# Projects
+## OpenCart Automation Project
 This project is based on Java-Selenium technology to automate the demo website of OpenCart, an open-source e-commerce platform. The project covers various functionalities of the website, such as:
 
 Registration of new user
