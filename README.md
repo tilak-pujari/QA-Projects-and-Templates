@@ -43,7 +43,7 @@ Entering address details
 The project uses ChromeDriver as the web driver and TestNG as the testing framework. The project also generates an automation report using Extend Report1. The project follows the page object model (POM) design pattern and uses annotations to mark test methods.Build with Maven tool
 
 
-# nopCommerce Automation Project
+## nopCommerce Automation Project
 
 This project is a Selenium-based automated testing framework for nopCommerce, an open-source e-commerce platform. The project leverages the Page Object Model (POM) design pattern, which enables structured and maintainable test code by separating page objects from test logic, enhancing reusability and scalability1.
 
