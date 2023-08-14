@@ -83,8 +83,7 @@ The project covers various functionalities of the website, such as:
 - Clicking on the feedback button to submit feedback
 
 The project also supports parallel testing , which allows running tests on multiple browsers simultaneously. The project also uses annotations to speed up the test development and execution.
-
-The project can be used to demonstrate the skills and knowledge of Selenium automation testing and to practice test cases on a realistic web application⁴.
+The project can be used to demonstrate the skills and knowledge of Selenium automation testing and to practice test cases on a realistic web application.
 
 
 ## Report
