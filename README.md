@@ -84,7 +84,6 @@ The project covers various functionalities of the website, such as:
 The project also supports parallel testing , which allows running tests on multiple browsers simultaneously. The project also uses annotations to speed up the test development and execution.
 The project can be used to demonstrate the skills and knowledge of Selenium automation testing and to practice test cases on a realistic web application.
 
-
 ## Report
 - After the execution, the HTML report will be generated in the test-output folder
 - The report will show the test results, screenshots and logs for each test case
