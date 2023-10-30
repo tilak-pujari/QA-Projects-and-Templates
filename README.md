@@ -13,7 +13,7 @@
 - Clone or download the project from GitHub
 - Import the project as a Maven project in your preferred IDE
 - Update the browser and driver paths in the config.properties file
-- Run the testng.xml file as a TestNG suite
+- Run the testng.xml file as a TestNG suite.
 
 # Projects
 ## OpenCart Automation Project
